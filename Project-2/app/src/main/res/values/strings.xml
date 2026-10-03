@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="recently_played">Recently played</string>
+    <string name="shawn_mendes">Shawn Mendes</string>
+    <string name="lloyd">Lloyd</string>
+    <string name="lana_del_rey">Lana Del Rey</string>
+    <string name="marvin_gaye">Marvin Gaye</string>
+    <string name="spotify_wrapped_tag">#SPOTIFYWRAPPED</string>
+    <string name="your_2021_in_review">Your 2021 in review</string>
+    <string name="your_top_songs_2021">Your Top Songs 2021</string>
+    <string name="your_artists_revealed">Your Artists Revealed</string>
+    <string name="editors_picks">Editor\'s picks</string>
+    <string name="editors_pick_1_desc">Ed Sheeran, Big Sean,\nJuice WRLD, Post Malone</string>
+    <string name="editors_pick_2_desc">Mitski, Tame Impala,\nGlass Animals, Charli XCX</string>
+    <string name="notification_bell_desc">Notifications</string>
+    <string name="history_desc">History</string>
+    <string name="settings_desc">Settings</string>
+</resources>
