@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Book pages / border -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M10,8h26v32H10z" />
+    <!-- Book cover -->
+    <path
+        android:fillColor="#334155"
+        android:pathData="M12,6h24a2,2 0 0,1 2,2v30a2,2 0 0,1 -2,2H12a2,2 0 0,1 -2,-2V8a2,2 0 0,1 2,-2z" />
+    <!-- Spine decoration -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M10,6h4v34h-4z" />
+    <!-- Gold Cross -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M23,14h4v16h-4z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M18,18h14v4h-14z" />
+</vector>

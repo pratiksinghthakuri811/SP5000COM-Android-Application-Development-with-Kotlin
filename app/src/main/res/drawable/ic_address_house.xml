@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Roof -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M24,8L8,22h6v18h20V22h6L24,8z" />
+    <!-- Walls -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M16,22h16v18H16z" />
+    <!-- Door -->
+    <path
+        android:fillColor="#B91C1C"
+        android:pathData="M21,30h6v10h-6z" />
+    <!-- Cross/Heart on roof -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M23,12h2v6h-2z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M21,14h6v2h-6z" />
+</vector>

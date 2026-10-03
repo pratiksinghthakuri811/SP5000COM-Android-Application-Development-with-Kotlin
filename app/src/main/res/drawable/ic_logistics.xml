@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Box -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M16,14l8,-4l8,4v12l-8,4l-8,-4z" />
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M16,14l8,4v12l-8,-4z" />
+    <!-- Tape -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M22,10h4v16h-4z" />
+    <!-- Hands -->
+    <path
+        android:fillColor="#059669"
+        android:pathData="M8,26c0,0 4,-2 8,2l4,4c-2,4 -6,6 -10,3l-2,-9z" />
+    <path
+        android:fillColor="#059669"
+        android:pathData="M40,26c0,0 -4,-2 -8,2l-4,4c2,4 6,6 10,3l2,-9z" />
+</vector>

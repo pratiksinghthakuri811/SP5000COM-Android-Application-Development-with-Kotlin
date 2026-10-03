@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Hair -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M16,14c0,-5 4,-8 8,-8s8,3 8,8v4H16v-4z" />
+    <!-- Face -->
+    <path
+        android:fillColor="#FDBA74"
+        android:pathData="M18,16h12v12c0,3.3 -2.7,6 -6,6s-6,-2.7 -6,-6V16z" />
+    <!-- Mustache/Beard -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M20,24c1.5,1 2.5,1 4,0c1.5,1 2.5,1 4,0c0,1.5 -1.5,3 -4,3s-4,-1.5 -4,-3z" />
+    <!-- Shirt -->
+    <path
+        android:fillColor="#DC2626"
+        android:pathData="M12,42c0,-5 5,-8 12,-8s12,3 12,8v2H12v-2z" />
+    <!-- Collar -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M22,34l2,3l2,-3z" />
+</vector>
